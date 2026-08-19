@@ -1,0 +1,7 @@
+# Welcome to my Github Page! 
+
+The is written in "Markdown". Markdown is an easy-to-read language for formatting plain text.
+
+You can use *Markdown* syntax, along with some additional HTML tags to format writing on Github.
+
+The is a **link** -> [The Word](https://www.merriam-webster.com/word-of-the-day).
