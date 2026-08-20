@@ -1,4 +1,4 @@
-<img width="1420" height="1416" alt="image" src="https://github.com/user-attachments/assets/573cd533-7279-4256-a8ed-e9cb31b3f937" /># Welcome to my Github Page! 
+# Welcome to my Github Page! 
 
 The is written in "Markdown". Markdown is an easy-to-read language for formatting plain text.
 
