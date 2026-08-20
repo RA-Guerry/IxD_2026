@@ -14,4 +14,4 @@ Hey check out this **cool** ***dog***
 ![image of a dog](https://hips.hearstapps.com/clv.h-cdn.co/assets/16/18/gettyimages-586890581.jpg?crop=0.668xw:1.00xh;0.219xw,0)
 
 ### Journal Examples
-This is my journal
+This is my journal [test](journal/08.20.2026.md)
