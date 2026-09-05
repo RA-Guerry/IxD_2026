@@ -1,5 +1,7 @@
 # Design of Everyday Things - Chapter 1 Response
 
-## Layout Clarity
+## Discoverability and Understanding
+
+
 
 ## Affordances vs Signifiers
